@@ -1,0 +1,4 @@
+name: SMP Safe Spectator
+version: '${project.version}'
+main: uk.co.jcox.spectator.SafeSpec
+api-version: 1.19
